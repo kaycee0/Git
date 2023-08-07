@@ -11,6 +11,6 @@
 
 solution
 
-ssh natasha@ststor01
-sudo yum install git -y
-sudo git init --bare /opt/blog.git
+ssh natasha@ststor01 
+sudo yum install git -y  ---- to install git 
+sudo git init --bare /opt/blog.git --- to create a bare repository /opt/blog.git
